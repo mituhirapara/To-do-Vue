@@ -7,4 +7,4 @@ I have instead used CDN so as to avoid complexity.
 <h2>Screenshot :<h2>
 
 
-<img src="images/s1.png">
+<img src="s1.png">
